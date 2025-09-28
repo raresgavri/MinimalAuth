@@ -1,0 +1,10 @@
+user1: raresgavri
+user2: andrei
+user3: meal_rosy
+user4: tantarel123
+user5: tjMyles
+user6: hatz
+user7: ana_maria
+user8: wowow
+user9: guest
+user10: admin
